@@ -1,2 +1,2 @@
 # MyQQChatSystem
-复刻qq两天系统
+复刻qq聊天系统
